@@ -1,3 +1,7 @@
+# Projeto To Do List
+
+Desenvolvido no estudo de ReactJS - Curso B7Web.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
