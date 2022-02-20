@@ -9,8 +9,6 @@ type Props = {
 };
 
 export const ListItem = ({ item, onChange }: Props) => {
-  const [isChecked, setIsChecked] = useState(item.done);
-
   return (
     <Component.Container done={item.done}>
       <input
